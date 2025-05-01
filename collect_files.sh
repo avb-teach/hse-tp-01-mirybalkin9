@@ -1,3 +1,3 @@
 #!/bin/bash
-read in_dir
-read out_dir
+in_dir=$1
+out_dir=$2
